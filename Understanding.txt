@@ -1,0 +1,27 @@
+1. Exception
+    * MidnighProtocoException -> Inherited from the Exception Class
+    * TimeExpiredError
+    * LocationLockedError
+    * CredibilityRuinedError
+
+
+2. Locations
+    * Class NPC
+    * Def Interrogate
+    * Def setup_characters
+
+
+3. Locations
+    * Class world_map
+    * def search_room
+    * setup_world
+
+
+4. Player
+    * class Casefile
+    * add_clue
+    * display
+
+    * class Detective 
+    * display_status
+    * spend_time
