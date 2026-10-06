@@ -1,4 +1,4 @@
-# 📄 Product Requirement Document (PRD)
+# 📄  Product Requirement Document (PRD)
 ## Project Name: *Midnight Protocol: The Neon Syndicate*
 **Author:** JD_PRAVEEN KUMAR 
 **Target Platform:** Cross-platform Terminal / Command Line Interface (CLI)  
